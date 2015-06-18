@@ -1,5 +1,6 @@
 datomicdb:
   build: datomic-pro
+  hostname: datomic-db
   ports:
    - "4334:4334"
    - "4335:4335"

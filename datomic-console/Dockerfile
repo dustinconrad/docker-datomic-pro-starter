@@ -1,7 +1,7 @@
 from dustinconrad/datomic-base
 
 ENV DATOMIC_ALIAS dev
-ENV DATOMIC_URL datomic:dev://datomicdb:4334/
+ENV DATOMIC_URL datomic:dev://datomic-db:4334/
 
 EXPOSE 8989
 
